@@ -5,11 +5,11 @@ I keep all my notes here.
 *great work!*
 
   > hello world
-
-
+  
 ## Table of Contents
 
 ### 102
+
 - [Reading-01](102/read-01)
 - [Class 2 Materials](102/class-02)
 - [Class 3 Materials](102/class-03)
@@ -20,6 +20,7 @@ I keep all my notes here.
 - [Class 8 Materials](102/class-08)
 
 ### 201
+
 - [Class 1 Materials](201/class-01)
 - [Class 2 Materials](201/class-02)
 - [Class 3 Materials](201/class-03)
