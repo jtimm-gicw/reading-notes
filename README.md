@@ -66,4 +66,3 @@ I keep all my notes here.
 - [Class 20 Materials](301/class-20)
 
 ### Code 401 - Advanced Software Development
-
